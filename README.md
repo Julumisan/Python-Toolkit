@@ -7,8 +7,8 @@ A diferencia de un proyecto monolítico, este repositorio sigue una arquitectura
 
 | Herramienta | Descripción | Dependencias Clave |
 | :--- | :--- | :--- |
-| **AliExpress Analytics** | Auditoría financiera de exportaciones GDPR. Detecta gasto real y filtra cancelaciones. | `pandas`, `seaborn`,`matplotlib`, `openpyxl`|
-
+| **[AliExpress Analytics](./aliexpress-analytics)** | Auditoría financiera de exportaciones GDPR. Detecta gasto real y filtra cancelaciones. | `pandas`, `seaborn`,`matplotlib`, `openpyxl`|
+| **[Investment Simulator](./investment-simulator)** | Proyecciones de inversión mediante Monte Carlo y Backtesting histórico. Incluye cálculo fiscal (IRPF 2025) y ajuste por inflación. | `numpy`, `matplotlib` |
 ## Uso General
 
 Cada carpeta contiene su propio `requirements.txt`. Para usar una herramienta (ejemplo con aliexpress-analytics):
