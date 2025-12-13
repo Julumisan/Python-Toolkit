@@ -7,7 +7,7 @@ A diferencia de un proyecto monolítico, este repositorio sigue una arquitectura
 
 | Herramienta | Descripción | Dependencias Clave |
 | :--- | :--- | :--- |
-| **AliExpress Analytics** | Auditoría financiera de exportaciones GDPR. Detecta gasto real y filtra cancelaciones. | `pandas`, `seaborn` |
+| **AliExpress Analytics** | Auditoría financiera de exportaciones GDPR. Detecta gasto real y filtra cancelaciones. | `pandas`, `seaborn`,`matplotlib`, `openpyxl`|
 
 ## Uso General
 
