@@ -2,6 +2,12 @@
 
 Herramienta de escritorio (GUI) para proyectar escenarios de inversión a largo plazo. Combina modelos estadísticos (Monte Carlo) con fiscalidad real y opciones de simulación histórica.
 
+<img width="1178" height="750" alt="image" src="https://github.com/user-attachments/assets/360077d5-1046-48c8-a5e5-a8c2b58068b3" />
+
+<img width="1172" height="670" alt="image" src="https://github.com/user-attachments/assets/f37bc8eb-aa45-4ae6-b256-e4913c0dacce" />
+
+
+
 ## Características
 
 * **Modelo Híbrido:**
@@ -25,7 +31,7 @@ Requiere Python 3.x y las librerías listadas en `requirements.txt`.
     python investment_simulator.py
     ```
 
-*Nota: En sistemas Linux, es posible que necesites instalar el soporte para Tkinter por separado (ej: `sudo apt-get install python3-tk`).* No lo he probado en Linux, pero debería funcionar con el soporte.
+*Nota: En sistemas Linux, es posible que necesites instalar el soporte para Tkinter por separado (ej: `sudo apt-get install python3-tk`). No lo he probado en Linux, pero debería funcionar con el soporte.*
 
 ## Uso
 
