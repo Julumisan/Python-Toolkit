@@ -10,6 +10,7 @@ A diferencia de un proyecto monolítico, este repositorio sigue una arquitectura
 | **[AliExpress Analytics](./aliexpress-analytics)** | Auditoría financiera de exportaciones GDPR. Detecta gasto real y filtra cancelaciones. | `pandas`, `seaborn`,`matplotlib`, `openpyxl`|
 | **[Image to RGB565](./image-to-rgb565)** | Conversor de imágenes para pantallas TFT embebidas (ESP32/Arduino). Genera binarios RAW y arrays C con corrección de color. | `Pillow` |
 | **[Investment Simulator](./investment-simulator)** | Proyecciones de inversión mediante Monte Carlo y Backtesting histórico. Incluye cálculo fiscal (IRPF 2025) y ajuste por inflación. | `numpy`, `matplotlib` |
+| **[Metadata Viewer](./metadata-viewer)** | Inspector forense de metadatos EXIF. Detecta geolocalización oculta (GPS) en fotos y genera enlaces a mapas. | `Pillow` |
 | **[PDF to Images](./pdf-to-images)** | Conversor CLI de PDF a imágenes (PNG/JPG). Soporta DPI personalizado, rangos de páginas y escala de grises. | `pymupdf` |
 | **[Trade Republic Parser (WIP)](./trade-republic-parser)** | Extractor experimental de datos financieros desde PDFs de Trade Republic a Excel. Incluye cálculo de P&L. | `pdfplumber`, `pandas`, `openpyxl` |
 
