@@ -1,4 +1,4 @@
-# Trade Republic PDF Parser (Beta)
+# Trade Republic PDF Parser ***[WIP]*** (Beta)
 
 Herramienta experimental para la extracción y estructuración de datos financieros desde los extractos PDF de Trade Republic.
 
