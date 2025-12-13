@@ -34,9 +34,9 @@ Este script limpia los datos, deduplica las transacciones basándose en el ID de
 
 1. Solicita tus datos en AliExpress [https://privacy.aliexpress.com] (Privacy -> Download Data). 
 
-Coloca el archivo .xlsx en la misma carpeta que el script.
+2. Coloca el archivo .xlsx en la misma carpeta que el script.
 
-Ejecuta: python aliexpress_analytics.py
+3. Ejecuta: python aliexpress_analytics.py
 
 
 
