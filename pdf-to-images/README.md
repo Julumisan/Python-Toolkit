@@ -29,11 +29,12 @@ Utilidad de línea de comandos (CLI) ligera y rápida para convertir páginas de
 Convierte todas las páginas a PNG (200 DPI por defecto):
 ```bash
 python pdf_to_images.py documento.pdf
-
+```
 ### Conversión Avanzada
 Convierte solo las páginas 1, 2, 3 y 7 a JPG en alta resolución (300 DPI) y escala de grises:
 ```bash
 python pdf_to_images.py documento.pdf --dpi 300 --fmt jpg --pages "1-3,7" --grayscale
+```
 
 ### Opciones Disponibles
 
