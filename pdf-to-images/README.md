@@ -22,17 +22,6 @@ Utilidad de línea de comandos (CLI) ligera y rápida para convertir páginas de
 * `pip install -r requirements.txt`
 
 
-## Argumentos Disponibles
-
-| Flag | Descripción |
-| :--- | :--- |
-| `-o, --out` | Directorio de salida |
-| `--dpi` | Resolución (Puntos por pulgada). |
-| `--pages` | Rango (ej: "1-5, 10"). |
-| `--password` | Para PDFs encriptados. |
-| `--transparent` | Mantiene el fondo transparente (útil para logos o esquemas). |
-
-
 ## Uso
 
 ### Conversión Básica
@@ -47,6 +36,15 @@ python pdf_to_images.py documento.pdf --dpi 300 --fmt jpg --pages "1-3,7" --gray
 ```
 
 
+## Argumentos Disponibles
+
+| Flag | Descripción |
+| :--- | :--- |
+| `-o, --out` | Directorio de salida |
+| `--dpi` | Resolución (Puntos por pulgada). |
+| `--pages` | Rango (ej: "1-5, 10"). |
+| `--password` | Para PDFs encriptados. |
+| `--transparent` | Mantiene el fondo transparente (útil para logos o esquemas). |
 
 
 
