@@ -12,6 +12,7 @@ A diferencia de un proyecto monolítico, este repositorio sigue una arquitectura
 | **[Investment Simulator](./investment-simulator)** | Proyecciones de inversión mediante Monte Carlo y Backtesting histórico. Incluye cálculo fiscal (IRPF 2025) y ajuste por inflación. | `numpy`, `matplotlib` |
 | **[Metadata Viewer](./metadata-viewer)** | Inspector forense de metadatos EXIF. Detecta geolocalización oculta (GPS) en fotos y genera enlaces a mapas. | `Pillow` |
 | **[PDF to Images](./pdf-to-images)** | Conversor CLI de PDF a imágenes (PNG/JPG). Soporta DPI personalizado, rangos de páginas y escala de grises. | `pymupdf` |
+| **[Smart Media Renamer](./smart-renamer)** | Normalizador de nombres de archivos (WhatsApp, Android). Usa Regex para estandarizar fechas y evitar duplicados. | `re`, `argparse` |
 | **[Trade Republic Parser (WIP)](./trade-republic-parser)** | Extractor experimental de datos financieros desde PDFs de Trade Republic a Excel. Incluye cálculo de P&L. | `pdfplumber`, `pandas`, `openpyxl` |
 
 
